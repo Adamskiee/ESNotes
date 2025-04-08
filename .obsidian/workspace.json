@@ -20,24 +20,23 @@
               "icon": "lucide-file",
               "title": "Welcome"
             }
-          }
-        ]
-      },
-      {
-        "id": "06cee0157ad96c67",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "e5a414fbc02c4695",
+            "id": "bb47501945b52e19",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Module 8/Sustainable Development.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sustainable Development"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
+                "file": "Module 8/Sustainable Development.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Welcome"
+              "title": "Backlinks for Sustainable Development"
             }
           },
           {
@@ -129,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome.md",
+                "file": "Module 8/Sustainable Development.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Welcome"
+              "title": "Outgoing links from Sustainable Development"
             }
           },
           {
@@ -158,21 +157,31 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md",
+                "file": "Module 8/Sustainable Development.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Welcome"
+              "title": "Outline of Sustainable Development"
+            }
+          },
+          {
+            "id": "7da31318062db8e8",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -181,11 +190,20 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bc930e3ac056242d",
+  "active": "c89e28e61cbfeab7",
   "lastOpenFiles": [
-    "Welcome.md"
+    "Module 8/ChatGPT/SustainableDevelopment.md",
+    "Module 8/Sustainable Development.md",
+    "Module 8/img/Pasted image 20250408151211.png",
+    "Module 8/img/Pasted image 20250408145858.png",
+    "Module 8/img",
+    "Module 8/img/Pasted image 20250408145826.png",
+    "Module 8/ChatGPT",
+    "Welcome.md",
+    "Module 8"
   ]
 }
