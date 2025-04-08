@@ -31,12 +31,13 @@ These are the **most basic needs for human survival**, like:
 # The concept of Development
 >Development is not just about having more money or buildings.  
 >It’s about having a **lasting ability to live a better life** — a life with dignity, opportunity, and well-being.
->It includes two main capacities:
- 1. **The capacity “to be”** – this means having the conditions to live well:
+
+It includes two main capacities:
+>1. **The capacity “to be”** – this means having the conditions to live well:
 - **To be educated** 🎓 – access to learning and knowledge
 - **To be healthy and well-nourished** 🥗🏥 – having good food, water, and healthcare
 - **To be secure** 🛡️ – living without fear of harm, violence, or extreme hardship
-> 2. **The capacity “to do”** – this means being able to take part in life actively:
+>2. **The capacity “to do”** – this means being able to take part in life actively:
 - **To work productively and creatively** 💼🎨
 - **To participate in community life** 🏘️ – like decision-making, volunteering, or helping others
 - **To have a family (if desired)** 👨‍👩‍👧 – the ability to raise children responsibly

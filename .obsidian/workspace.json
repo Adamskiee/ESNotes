@@ -93,7 +93,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "94091b3b26f54447",
@@ -194,7 +195,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c89e28e61cbfeab7",
+  "active": "7da31318062db8e8",
   "lastOpenFiles": [
     "Module 8/ChatGPT/SustainableDevelopment.md",
     "Module 8/Sustainable Development.md",
