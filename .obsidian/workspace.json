@@ -22,21 +22,49 @@
             }
           },
           {
-            "id": "bb47501945b52e19",
+            "id": "bdec2961fc1dbfcf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Module 8/Sustainable Development.md",
+                "file": "Module 5/5.3 and 5.4.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sustainable Development"
+              "title": "5.3 and 5.4"
+            }
+          },
+          {
+            "id": "6482e964af0ab40d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Module 5/5.3 and 5.4.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "5.3 and 5.4"
+            }
+          },
+          {
+            "id": "8e41541832373d03",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Module 7/7.3 and 7.4.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "7.3 and 7.4"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -93,8 +121,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "94091b3b26f54447",
@@ -195,16 +222,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7da31318062db8e8",
+  "active": "8e41541832373d03",
   "lastOpenFiles": [
-    "Module 8/ChatGPT/SustainableDevelopment.md",
+    "Module 6/Untitled.md",
+    "Module 7/7.3 and 7.4.md",
+    "Module 5/5.3 and 5.4.md",
+    "Module 7",
+    "Module 6",
+    "Welcome.md",
+    "Module 5",
     "Module 8/Sustainable Development.md",
+    "Module 8/ChatGPT/SustainableDevelopment.md",
     "Module 8/img/Pasted image 20250408151211.png",
     "Module 8/img/Pasted image 20250408145858.png",
     "Module 8/img",
     "Module 8/img/Pasted image 20250408145826.png",
     "Module 8/ChatGPT",
-    "Welcome.md",
     "Module 8"
   ]
 }
